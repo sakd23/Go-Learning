@@ -12,7 +12,7 @@ func main() {
 
 	lastname := "Brahmin"
 	fmt.Println("Latname: " + lastname)
-
+    //decimal
 	fmt.Printf("Name: %s, Lastname: %s\n", name, lastname)
 
 	fmt.Printf(("Salary: %f\n"), 1000.23)
