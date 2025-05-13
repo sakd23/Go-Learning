@@ -5,14 +5,14 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 
-	// string variable
+	// string variables
 	var name string
 	name = "John Doe"
 	fmt.Println("Hello, " + name + "!")
 
 	lastname := "Brahmin"
 	fmt.Println("Latname: " + lastname)
-    //decimal
+	//decimal
 	fmt.Printf("Name: %s, Lastname: %s\n", name, lastname)
 
 	fmt.Printf(("Salary: %f\n"), 1000.23)
