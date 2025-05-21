@@ -5,7 +5,7 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 
-	// string variables
+	// string variable
 	var name string
 	name = "John Doe"
 	fmt.Println("Hello, " + name + "!")
